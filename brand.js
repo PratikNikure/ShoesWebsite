@@ -1,5 +1,5 @@
 
-nav1.addEventListener('click', function(){
+clk.addEventListener('click', function(){
     console.log("you clicked on the Home")
 })
 
